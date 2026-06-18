@@ -1,0 +1,355 @@
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Attendence.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Class_Sec.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Dashbord.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Login.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Payment.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Properties.Resources.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.StudentManagement.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.User.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfo.cs
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.AttendanceEntry.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.deps.json
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.runtimeconfig.json
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.Up2Date
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\refint\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.genruntimeconfig.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Complete\NKH Tution\obj\Debug\net10.0-windows\ref\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.deps.json
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.runtimeconfig.json
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.AttendanceEntry.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Attendence.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Class_Sec.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Dashbord.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Login.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Payment.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Properties.Resources.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.StudentManagement.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.User.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfo.cs
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.Up2Date
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\refint\NKH Tution.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.genruntimeconfig.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\C#\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\ref\NKH Tution.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.exe
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.deps.json
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.runtimeconfig.json
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.pdb
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Guna.UI2.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Management.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.AssemblyReference.cache
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.AttendanceEntry.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Attendence.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Class_Sec.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Dashbord.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Login.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Payment.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Properties.Resources.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.StudentManagement.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.User.resources
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.GenerateResource.cache
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.GeneratedMSBuildEditorConfig.editorconfig
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfoInputs.cache
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfo.cs
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.CoreCompileInputs.cache
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.Up2Date
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.dll
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\refint\NKH Tution.dll
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.pdb
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.genruntimeconfig.cache
+E:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\ref\NKH Tution.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.exe
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.deps.json
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.runtimeconfig.json
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.pdb
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Guna.UI2.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\System.Management.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\NKH_Final\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.AssemblyReference.cache
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.AttendanceEntry.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Attendence.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Class_Sec.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Dashbord.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Login.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Payment.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Properties.Resources.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.StudentManagement.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.User.resources
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.GenerateResource.cache
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.GeneratedMSBuildEditorConfig.editorconfig
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfoInputs.cache
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfo.cs
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.CoreCompileInputs.cache
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.Up2Date
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.dll
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\refint\NKH Tution.dll
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.pdb
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.genruntimeconfig.cache
+D:\NKH_Final\NKH Tution\obj\Debug\net10.0-windows\ref\NKH Tution.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.exe
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.deps.json
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.runtimeconfig.json
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\NKH Tution.pdb
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Guna.UI2.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\System.Management.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\NKH_ Tuition Management\NKH Tution\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.AssemblyReference.cache
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.AttendanceEntry.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Attendence.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Class_Sec.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Dashbord.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Login.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Payment.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.Properties.Resources.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.StudentManagement.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH_Tution.User.resources
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.GenerateResource.cache
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.GeneratedMSBuildEditorConfig.editorconfig
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfoInputs.cache
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.AssemblyInfo.cs
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.CoreCompileInputs.cache
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.csproj.Up2Date
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.dll
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\refint\NKH Tution.dll
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.pdb
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\NKH Tution.genruntimeconfig.cache
+D:\NKH_ Tuition Management\NKH Tution\obj\Debug\net10.0-windows\ref\NKH Tution.dll
