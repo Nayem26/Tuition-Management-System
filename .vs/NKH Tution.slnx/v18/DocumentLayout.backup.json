@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NKH_ Tuition Management\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|D:\\NKH_ Tuition Management\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|D:\\NKH_ Tuition Management\\nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|D:\\NKH_ Tuition Management\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|D:\\NKH_ Tuition Management\\nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|D:\\NKH_ Tuition Management\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|d:\\nkh_ tuition management\\nkh tution\\function\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|c:\\users\\user\\desktop\\nkh_ tuition management\\nkh tution\\function\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\function\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\User.cs",
               "RelativeDocumentMoniker": "NKH Tution\\User.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\User.cs [Design]",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\User.cs [Design]",
               "RelativeToolTip": "NKH Tution\\User.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T07:16:35.673Z",
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Attendence.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Attendence.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Attendence.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Attendence.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Attendence.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Attendence.cs",
               "RelativeToolTip": "NKH Tution\\Attendence.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAgwAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Payment.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
               "RelativeToolTip": "NKH Tution\\Payment.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAgwO4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Class\u0026Sec.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Class\u0026Sec.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
               "RelativeToolTip": "NKH Tution\\Class\u0026Sec.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dashbord.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Dashbord.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
               "RelativeToolTip": "NKH Tution\\Dashbord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,24 +137,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\User.cs",
               "RelativeDocumentMoniker": "NKH Tution\\User.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\User.cs",
               "RelativeToolTip": "NKH Tution\\User.cs",
-              "ViewState": "AgIAANAAAAAAAAAAAAAxwBABAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T07:16:41.915Z"
+              "WhenOpened": "2026-05-20T07:16:41.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Class\u0026Sec.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Class\u0026Sec.cs",
               "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Class\u0026Sec.cs [Design]",
-              "RelativeToolTip": "NKH Tution\\Class\u0026Sec.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T07:05:08.172Z"
             },
@@ -162,9 +162,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "StudentManagement.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
               "RelativeDocumentMoniker": "NKH Tution\\StudentManagement.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
               "RelativeToolTip": "NKH Tution\\StudentManagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,10 +175,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Login.cs",
               "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Login.cs [Design]",
-              "RelativeToolTip": "NKH Tution\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T04:57:37.136Z"
             },
@@ -186,10 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Dashbord.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Dashbord.cs",
               "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Dashbord.cs [Design]",
-              "RelativeToolTip": "NKH Tution\\Dashbord.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T06:32:16.545Z"
             },
@@ -197,10 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Payment.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Payment.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Payment.cs",
               "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Payment.cs [Design]",
-              "RelativeToolTip": "NKH Tution\\Payment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T16:55:45.256Z"
             },
@@ -208,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Login.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Login.cs",
               "RelativeToolTip": "NKH Tution\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Function.cs",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\Function\\Function.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Function\\Function.cs",
               "RelativeDocumentMoniker": "NKH Tution\\Function\\Function.cs",
-              "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\Function\\Function.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\Function\\Function.cs",
               "RelativeToolTip": "NKH Tution\\Function\\Function.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,10 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "StudentManagement.cs [Design]",
-              "DocumentMoniker": "D:\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs",
               "RelativeDocumentMoniker": "NKH Tution\\StudentManagement.cs",
               "ToolTip": "D:\\NKH_ Tuition Management\\NKH Tution\\StudentManagement.cs [Design]",
-              "RelativeToolTip": "NKH Tution\\StudentManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T00:38:36.163Z"
             }

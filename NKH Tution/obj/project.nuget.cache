@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSCPKMSZJHU=",
+  "dgSpecHash": "sdN9+i3ZpRE=",
   "success": true,
-  "projectFilePath": "D:\\NKH_ Tuition Management\\NKH Tution\\NKH Tution.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\NKH_ Tuition Management\\NKH Tution\\NKH Tution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
